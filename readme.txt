@@ -1,3 +1,14 @@
+
+"# xray" 
+<br>来源:https://www.iculture.cc/
+<br>常用命令
+<br>xray webscan --listen 127.0.0.1:7777 -ho name.html
+<br>git clone -b 1.9.4forwindows http://github.com/coff1/xray.git
+<br>git clone -b 1.9.4forlinux http://github.com/coff1/xray.git
+<br>git clone -b 1.9.3forwindows http://github.com/coff1/xray.git
+
+
+
 XRAY Web Vulnerability Scanner Linux amd64 -Zen
 "A comprehensive security assessment tool that supports common web security
 issue scanning and custom poc"
